@@ -1,0 +1,45 @@
+Assignment 1:
+create 2 objects of the set interface in same class
+LinkedHashSet(L1 and L2)
+
+L1 - 1st object will be generic ( add two int, two float, two char , one boolean)
+L2 - 2nd object will be Integer type only and add number from the user console in random order (1 to 8)
+
+Assignment 2:
+Create one object of treeset and add the any 6 programming languages in random order
+-remove two languages 
+-add three more after removal
+-check if "java" is part of your treeset or not
+-remove all the elemnents from treeset and display it
+
+Assignment 3:
+Use LinkedList only in the below program
+-add 6 months (May, June, July, August, April, November)
+-add 'decemeber' month as last
+-add 'january' month as first
+-add 'march' and then add 'Februray' using the index based
+-add 'september' and then add 'october using the index based
+
+1. print the linked list in such a way that proper order of months are displayed
+2. get all the even months and print them
+3. get all the odd months and print them
+4. use iterator to fetch and print all months
+5. print the first and last month of year together
+6.remove your birthday month from the linked list and print it
+7. check whether this linked list contains any winter month inside it or not
+
+Assignment 4: 
+Fruits in order to return 
+key or fruits
+
+Assignment 5:
+Add 10 element to stack (java util)
+Add 5 string, 3 int, 2 float (using push method)
+Traverse through it – using for each.
+After that, we have to remove 2 elements.
+Then retrieve all elements.
+
+- add these elements using push()  
+- remove two elements using pop()   
+- get the top of the elemnt using peek()   
+- print all the elemtns of the stack
